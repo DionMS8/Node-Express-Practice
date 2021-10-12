@@ -1,0 +1,23 @@
+{
+  "name": "node-express-practice",
+  "version": "1.0.0",
+  "description": "Learning Node and Express.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DionMS8/Node-Express-Practice.git"
+  },
+  "author": "Dion Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DionMS8/Node-Express-Practice/issues"
+  },
+  "homepage": "https://github.com/DionMS8/Node-Express-Practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
+
